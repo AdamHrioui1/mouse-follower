@@ -68,8 +68,9 @@ h1:hover + .follower{
 }
 
 h2 {
+    color: #fff;
     font-size: 50px;
     font-family: Arial, Helvetica, sans-serif;
     -webkit-text-fill-color: transparent;
-    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-width: .8px;
 }
